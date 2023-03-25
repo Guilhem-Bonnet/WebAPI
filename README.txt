@@ -1,25 +1,25 @@
 lienWeb : http://localhost:3000/actualites?apikey=clé_GameLauncherWPF-@874@DD
-WebAPI
+# WebAPI
 WebAPI est une API REST développée en Node.js permettant de gérer des actualités. L'API fournit deux endpoints permettant de récupérer toutes les actualités stockées et une actualité spécifique en fonction de son identifiant.
 
-Installation
+## Installation
 Cloner le dépôt :
-bash
-Copy code
+```bash
 git clone https://github.com/Guilhem-Bonnet/WebAPI.git
+```
 Installer les dépendances :
-bash
-Copy code
+```bash
 cd WebAPI
 npm install
+```
 Créer un fichier .env à la racine du projet et y ajouter la clé d'API (cf. api-key.js) :
-bash
-Copy code
+```bash
 API_KEY=YOUR_API_KEY
+```
 Lancer l'application :
-bash
-Copy code
+```bash
 npm start
+```
 Endpoints
 GET /news
 Récupère toutes les actualités stockées dans le fichier actualites.json.
