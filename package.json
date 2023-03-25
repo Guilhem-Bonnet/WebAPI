@@ -1,0 +1,20 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "module": "^1.2.5",
+    "node-fetch": "^3.3.1",
+    "path": "^0.12.7",
+    "save": "^2.9.0"
+  }
+}

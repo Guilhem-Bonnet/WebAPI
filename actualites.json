@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Titre de l'actualité 1",
+      "date": "2023-03-24T12:34:56Z",
+      "image_url": "https://cdn.hswstatic.com/gif/werewolves-1.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "title": "Titre de l'actualité 2",
+      "date": "2023-03-23T09:12:34Z",
+      "image_url": "https://t3.ftcdn.net/jpg/05/55/82/48/360_F_555824872_szeOZ869MzfM6OPJCABlrpWJrlesGpeL.jpg",
+      "content": "Praesent ut ligula nec magna faucibus laoreet."
+    }
+  ]
+  
