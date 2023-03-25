@@ -1,7 +1,11 @@
 lienWeb : http://localhost:3000/actualites?apikey=clé_GameLauncherWPF-@874@DD
-# WebAPI
+## WebAPI
 WebAPI est une API REST développée en Node.js permettant de gérer des actualités. L'API fournit deux endpoints permettant de récupérer toutes les actualités stockées et une actualité spécifique en fonction de son identifiant.
-
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
 ## Installation
 Cloner le dépôt :
 ```bash
